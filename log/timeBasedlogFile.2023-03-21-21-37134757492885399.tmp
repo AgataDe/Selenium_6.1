@@ -1,0 +1,3 @@
+456 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+475 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\adebicka\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+476 [main] INFO  base.BaseTest - WebDriver setup
